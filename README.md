@@ -1,4 +1,4 @@
-# solana-project-duplicator
+# solana-metrics-duplicator
 
 It works as a mirror proxy.
 Launch it and direct the metrics from the Solana validator into it. 
